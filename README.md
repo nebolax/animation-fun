@@ -1,1 +1,1 @@
-https://animation-fun.onrender.com
+https://animation-fun.vercel.app/
